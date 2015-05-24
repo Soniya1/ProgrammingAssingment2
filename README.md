@@ -1,4 +1,5 @@
 # ProgrammingAssingment2
+# If not visible properly please see in Raw view .
 makeCacheMatrix <- function (x= matrix()){ 
 i<- NULL 
 set<-function(y){ 
